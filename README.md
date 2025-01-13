@@ -57,4 +57,4 @@ CEP <br/>
 Email <br/>
 Desconto Ativo (Sim ou Não) <br/>
 Arquivo do Cliente em Registro (Sim ou Não) <br/>
-O formulário é enviado para cada cliente. <br/>
+4. O formulário é enviado para cada cliente. <br/>
